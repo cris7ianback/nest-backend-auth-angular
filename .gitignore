@@ -2,8 +2,8 @@
 /dist
 /node_modules
 
-# mongo/
-# .env
+ mongo/
+ .env
 
 # Logs
 logs
